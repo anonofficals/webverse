@@ -20,6 +20,17 @@ To create privacy-focused, secure, and intelligent systems for the future of ope
 
 ---
 
+## 🚀 Get Involved
+Join us, collaborate, and contribute to open innovation!
+
+| Platform | Purpose |
+|-----------|----------|
+| 💬 [GitHub Discussions](../../discussions) | Ask, share, and connect with others |
+| 💻 [Repositories](../../repositories) | Explore and contribute to our projects |
+| 📱 [WhatsApp Channel](https://whatsapp.com/channel/0029VbAmgwp3mFYF4DFVym0z) | Stay updated & collaborate |
+
+---
+
 ## 🤝 Contributing
 We welcome contributors of all skill levels.  
 Please read our [Contributing Guide](CONTRIBUTING.md) before submitting pull requests.
@@ -31,4 +42,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-**Together we innovate,**
+**Together we innovate, build, and secure the digital world.**
