@@ -13,10 +13,16 @@ To create privacy-focused, secure, and intelligent systems for the future of ope
 ---
 
 ## 💡 What We Do
-- 🤖 **Artificial Intelligence** — Building smart, ethical, and scalable systems.  
-- 🧩 **Cybersecurity** — Developing advanced defense tools and awareness systems.  
-- 🧠 **Open Source Development** — Empowering global developers through collaboration.  
-- 🌍 **Software Innovation** — Turning bold ideas into real, secure solutions.
+
+* 🧠 **Open Source Development** — Empowering global developers through collaboration.
+* 🌍 **Software Innovation** — Turning bold ideas into real, secure solutions.
+* 💻 **Web Development** — Creating modern, secure, and responsive websites that drive innovation and accessibility.
+* 📱 **Mobile Application Development** — Building cross-platform apps that connect people, enhance productivity, and ensure privacy-first experiences.
+
+---
+
+Would you like me to insert this updated section directly into your full **README.md** (so you have the complete, final version of that file)?
+
 
 ---
 
